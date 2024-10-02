@@ -1,4 +1,5 @@
-#include <iostream> 
+#include <iostream>         // Цикл с ветвлением
+
 using namespace std;
 
 int main()
